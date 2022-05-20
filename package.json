@@ -1,0 +1,14 @@
+{
+  "name": "machines-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel deploy --prod"
+  },
+  "devDependencies": {
+    "@vercel/node": "^1.15.3",
+    "vercel": "^24.2.4"
+  }
+}
